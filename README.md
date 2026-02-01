@@ -20,7 +20,7 @@ This is a simple static tutor website project. It contains a homepage, a contact
 - `contact.html` — contact form or contact information page.
 - `css/styles.css` — stylesheet for the site.
 - `js/script.js` — site JavaScript.
-- `images/` — folder for images and media.
+- `images/` — folder for images and media..
 
 ## Importance / Why This Matters
 - Provides a simple, clear example of a static website structure used for learning web development.
